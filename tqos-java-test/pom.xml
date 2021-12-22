@@ -17,6 +17,5 @@
 
     <modules>
         <module>tqos-java-test-app</module>
-        <module>tqos-java-test-app</module>
     </modules>
 </project>
